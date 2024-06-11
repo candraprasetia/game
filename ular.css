@@ -1,0 +1,17 @@
+h1 {
+    font-family: serif;
+    font-size: 100px;
+    color: rgb(129, 5, 5);
+    text-align:center;
+    text-shadow: 0 1px 11px rgb(158, 51, 51);
+}
+
+body {
+    text-align: center;
+    background: url(oray.jpg) no-repeat;
+}
+ 
+canvas {
+    box-shadow: 0 0px 50px rgb(95, 255, 2);
+    
+}
